@@ -1,0 +1,13 @@
+label{
+    padding-right: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+button{
+    margin-top: 10px;
+}
+.error{
+    color: red;
+}
