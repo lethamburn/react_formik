@@ -2,7 +2,6 @@ import React from "react";
 import { useFormik } from "formik";
 import "./RegisterForm.css";
 function RegisterForm() {
-
   const validate = (values) => {
     const errors = {};
 
